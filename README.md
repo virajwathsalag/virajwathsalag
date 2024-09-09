@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.virajwathsalag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.virajwathsalag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viraj gunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj gunasinghe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viraj-gunasinghe-56562031a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj gunasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/viraj_wathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viraj_wathsala" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@slcyberspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@slcyberspace" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@slcyberspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@slcyberspace" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
