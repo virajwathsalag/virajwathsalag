@@ -51,7 +51,8 @@
 
 <p align="center">
   <a href="https://github.com/virajwathsalag">
-    <img src="https://github.com/virajwathsalag/virajwathsalag/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
+    <img src="https://<your-username>.github.io/<repository-name>/github-contribution-grid-snake.svg" alt="3D Contribution Graph" />
+
   </a>
 </p>
 
