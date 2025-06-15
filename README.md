@@ -1,12 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
-  <img src="gifs/all-language-hello.gif" alt="Hello" style="height: 150px; width: 150px; margin: 0; padding: 0; display: block;">
-
-  <!-- Banner in center -->
-  <img src="images/banner-thingy.png" alt="Banner" style="height: 150px; width: 700px; margin: 0; padding: 0; display: block;">
-
-  <!-- Right image -->
-  <img src="images/sick-avatar-hacking.png" alt="Avatar" style="height: 150px; width: 150px; margin: 0; padding: 0; display: block;">
+  <img src="gifs/Untitled design (2).gif">
 </div>
 
 <div style="margin-bottom: -30px; gap: 0; padding: 0;">
