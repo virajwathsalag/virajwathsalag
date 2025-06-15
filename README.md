@@ -1,11 +1,18 @@
-<div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
+<div align="center" style="position: relative; background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
+  
+  <!-- The Hello GIF Positioned on Top Left -->
+  <img src="images/all-language-helloo.gif" alt="Hello" style="position: absolute; top: -10px; left: 10px; width: 100px;">
+
+  <!-- The Main Banner -->
   <h1 align="center" style="color: white;">
-    <span align="center">
-      <img src="images/bannerImage.png" alt="👋Hi! I'm Viraj Gunasinghe">
-    </span>
+    <img src="images/banner-thingy.png" alt="👋Hi! I'm Viraj Gunasinghe" style="max-width: 100%;">
   </h1>
-  <h3 style="color: Grey;">A passionate coding enthusiast, always eager to learn and develop across the full stack.</h3>
+
+  <!-- Subtitle -->
+  <h3 style="color: grey;">A passionate coding enthusiast, always eager to learn and develop across the full stack.</h3>
+
 </div>
+
 
 <p align="center" style="margin-top: 15px;">
   <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
