@@ -24,7 +24,7 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ✨ Let's connect on **all things web development and beyond!**
 - ⚡ Fun fact: **Continuously exploring innovative web technologies**
-- 📫 Contact me via **sachithasbandara6@gmail.com**
+- 📫 Contact me via **virajwgunsinghe@gmail.com**
 
 <br>
 
