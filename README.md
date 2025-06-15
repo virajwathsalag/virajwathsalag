@@ -6,7 +6,7 @@
 <div style="margin-bottom: -30px; gap: 0; padding: 0;">
   <img src="gifs/line-inbetween-things.gif" alt="Avatar" />
 </div>
-<div align="center" gap: 0; padding: 0;>
+<div align="left" gap: 0; padding: 0;>
   <h1 style="margin-bottom: 10px; gap: 0; padding: 0;">
     <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" />
     Hello, I'm Viraj Gunasinghe
