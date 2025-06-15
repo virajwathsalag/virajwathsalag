@@ -1,7 +1,7 @@
 <div align="center" style="background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
   <h1 align="center" style="color: white;">
     <span align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=735&lines=👋Hi!+I'm+Viraj+Gunasinghe" alt="👋Hi! I'm Viraj Gunasinghe">
+      <img src="" alt="👋Hi! I'm Viraj Gunasinghe">
     </span>
   </h1>
   <h3 style="color: Grey;">A passionate coding enthusiast, always eager to learn and develop across the full stack.</h3>
