@@ -1,26 +1,69 @@
-<div align="center" style="position: relative; background: linear-gradient(to right, #0e75b6, #2a9df4); padding: 30px; border-radius: 15px;">
-  
-  <!-- The Hello GIF Positioned on Top Left -->
-  <img src="images/all-language-helloo.gif" alt="Hello" style="position: absolute; top: -10px; left: 10px; width: 100px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
+  <!-- Left image -->
+  <img src="gifs/all-language-hello.gif" alt="Hello" style="height: 150px; width: 150px; margin: 0; padding: 0; display: block;">
 
-  <!-- The Main Banner -->
-  <h1 align="center" style="color: white;">
-    <img src="images/banner-thingy.png" alt="👋Hi! I'm Viraj Gunasinghe" style="max-width: 100%;">
-  </h1>
+  <!-- Banner in center -->
+  <img src="images/banner-thingy.png" alt="Banner" style="height: 150px; width: 700px; margin: 0; padding: 0; display: block;">
 
-  <!-- Subtitle -->
-  <h3 style="color: grey;">A passionate coding enthusiast, always eager to learn and develop across the full stack.</h3>
-
+  <!-- Right image -->
+  <img src="images/sick-avatar-hacking.png" alt="Avatar" style="height: 150px; width: 150px; margin: 0; padding: 0; display: block;">
 </div>
 
+<div style="margin-bottom: -30px; gap: 0; padding: 0;">
+  <img src="gifs/line-inbetween-things.gif" alt="Avatar" />
+</div>
+<div align="center" gap: 0; padding: 0;>
+  <h1 style="margin-bottom: 10px; gap: 0; padding: 0;">
+    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" />
+    Hello, I'm Viraj Gunasinghe
+    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" />
+  </h1>
+</div>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img width="35%"  align="right" alt="Github" src="gifs/coding-bro.gif" />
+
+<br>
+
+- 🛠️ Currently building **awesome things! (Stay tuned 😉)**
+
+- 🌱 I'm currently learning **more about DevOps practices and automation**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- ✨ Let's connect on **all things web development and beyond!**
+- ⚡ Fun fact: **Continuously exploring innovative web technologies**
+- 📫 Contact me via **sachithasbandara6@gmail.com**
+
+<br>
+
+## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
+
+
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=15&size=10"/>
+  
+  </a>
 </p>
 
----
 
-### 📊 GitHub Stats:
+
+<div style="position: relative; display: inline-block;">
+ 
+  <h3 style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: extra-bold;
+    font-size: 1.1em;
+    text-shadow: 1px 1px 4px #000;
+    pointer-events: none;
+    ">
+    📊 GitHub Stats:</h3>
+  </span>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajwathsalag&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
@@ -50,11 +93,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,vscode,github,arduino,mysql,javascript,git,java,python,bootstrap" alt="Skills" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);" />
-</p>
 
 ---
 
