@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
-  <!--<img src="images/Untitled design.png" style="width: 1100px">-->
+  <img src="images/Untitled design.png" style="width: 1100px">
   <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
   <img src="gifs/Untitled design (4).gif" style="width: 1100px">
   
