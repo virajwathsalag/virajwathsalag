@@ -1,15 +1,16 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
-  <img src="gifs/Untitled design (2).gif" style="width: 1100px">
+  <img src="images/banner-thingy.png" style="width: 1100px">
 </div>
 
 
 <div align="center" gap: 0; padding: 0;>
   <h1 style="margin-bottom: 10px; gap: 0; padding: 0;">
+    <img src="gifs/all-language-hello.gif" style="width: 150px">
    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" /> 
-  Hello, I'm Viraj Gunasinghe
+ About Me
    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" />
-    
+    <img src="gifs/all-language-hello.gif" style="width: 150px">
   </h1>
 </div>
 
