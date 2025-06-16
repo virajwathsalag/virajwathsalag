@@ -3,24 +3,16 @@
   <img src="gifs/Untitled design (2).gif" style="width: 1100px">
 </div>
 
-<div style="margin-bottom: -30px; gap: 0; padding: 0;">
-  <img src="gifs/line-inbetween-things.gif" alt="Avatar" />
-</div>
+
 <div align="center" gap: 0; padding: 0;>
   <h1 style="margin-bottom: 10px; gap: 0; padding: 0;">
    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" /> 
   Hello, I'm Viraj Gunasinghe
    <img src="gifs/fire-thingy.gif" width="100px" height="100px" alt="fire" />
-    <br>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+learning+new+things;Open+Source+Contributor;Problem+Solver;Code+Adventurer;Tech+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
   </h1>
-  
-
-
 </div>
 
-## About Me <img src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/about_me.gif" width="45px">
 
 <img width="35%"  align="right" alt="Github" src="gifs/co-working-photo.gif" />
 
