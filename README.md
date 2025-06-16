@@ -1,13 +1,16 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
-  <img src="images/banner1.png" style="width: 1100px">
-</div>
+  <img src="images/Untitled design.png" style="width: 1100px">
+  <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > <img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px>
+
+  </div>
+
+<h1></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+learning+new+things;Open+Source+Contributor;Problem+Solver;Code+Adventurer;Tech+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 
-
-
-
-<img width="35%"  align="right" alt="Github" src="gifs/co-working-photo.gif" />
+<img width="25%"  align="right" alt="Github" src="gifs/co-working-photo.gif" />
 
 <br>
 
@@ -24,38 +27,25 @@
 ## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 
 
-
-<p align="center">
+<p>
   <a>
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=15&size=10"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=20&size=10"/>
   
   </a>
 </p>
 
+<br>
 
-
-<div style="position: relative; display: inline-block;">
- 
-  <h3 style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-weight: extra-bold;
-    font-size: 1.1em;
-    text-shadow: 1px 1px 4px #000;
-    pointer-events: none;
-    ">
-    📊 GitHub Stats:</h3>
-  </span>
-</div>
+ ## <img src="gifs/dj-cat.gif" width ="3%">Github Stats 
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajwathsalag&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajwathsalag&theme=radical" alt="GitHub streak stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);"   width="55%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=virajwathsalag&show_icons=true&locale=en&theme=radical" alt="GitHub stats" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajwathsalag&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajwathsalag&layout=compact&theme=radical" alt="Most Used Languages" height="195px" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);" />
+  
+  
 </p>
 
 ---
