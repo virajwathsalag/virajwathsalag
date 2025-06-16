@@ -30,12 +30,11 @@
 ## Skills & Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 
 
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,nodejs,spring,mysql,mongodb,bootstrap,tailwindcss,react,nextjs,flask,django,sklearn,jquery,bash,vscode,androidstudio,arduino,firebase,supabase,git,postman,azure,vercel,docker,windows,linux,ubuntu&perline=20"/>
   
-  </a>
-</p>
+<img  style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,nodejs,spring,mysql,mongodb,bootstrap,tailwindcss,react,nextjs,flask,django,sklearn,jquery,bash,vscode,androidstudio,arduino,firebase,supabase,git,postman,azure,vercel,docker,windows,linux,ubuntu&perline=16"/>
+  
+ 
+
 
 <br>
 
