@@ -32,7 +32,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,aws,docker,git,figma,c,cpp,cs,arduino,java,spring,mongodb,mysql,firebase,supabase&perline=20&size=10"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,nodejs,spring,mysql,mongodb,bootstrap,tailwindcss,react,nextjs,flask,django,sklearn,jquery,bash,vscode,androidstudio,arduino,firebase,supabase,git,postman,azure,vercel,docker,windows,linux,ubuntu&perline=20"/>
   
   </a>
 </p>
@@ -82,3 +82,7 @@
 - 🌱 Constantly learning and improving.
 - 💻 Skilled in full-stack development, focusing on modern web and desktop applications.
 - 🚀 Passionate about creating optimized and user-friendly software.
+
+<p align="center" style="margin-top: 15px;">
+  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
