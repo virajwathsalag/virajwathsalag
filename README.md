@@ -1,16 +1,19 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
   <img src="images/Untitled design.png" style="width: 1100px">
-  <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > <img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px><img src = "gifs/all-language-hello.gif" width = 100px>
+  <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
+  <img src="gifs/Untitled design (4).gif" style="width: 1100px">
+  
 
   </div>
+  <br>
 
-<h1></h1>
+## About Me <img src="https://github.com/sachithasamadhib/sachithasamadhib/blob/main/Images/about_me.gif" width="45px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+learning+new+things;Open+Source+Contributor;Problem+Solver;Code+Adventurer;Tech+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 
-<img width="25%"  align="right" alt="Github" src="gifs/co-working-photo.gif" />
+<img width="30%"  align="right" alt="Github" src="images/stack.gif" />
 
 <br>
 
