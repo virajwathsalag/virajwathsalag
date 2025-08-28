@@ -2,7 +2,7 @@
   <!-- Left image -->
  <img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/7ab897d9-4acf-4320-adc7-9c991e6fd6f7" />
   
-  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=000000&&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=lightgray&&style=flat" alt="Profile views" />
   <img src = "https://img.shields.io/github/followers/virajwathsalag?label=Followers" />
   <img src = "https://img.shields.io/github/stars/virajwathsalag?label=stars" />
   <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
