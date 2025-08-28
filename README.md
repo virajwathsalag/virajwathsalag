@@ -1,6 +1,10 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
  <img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/7ab897d9-4acf-4320-adc7-9c991e6fd6f7" />
+  
+  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=green&style=flat" alt="Profile views" />
+  <img src = "https://img.shields.io/github/followers/virajwathsalag?label=Followers" />
+  <img src = "https://img.shields.io/github/stars/virajwathsalag?label=stars" />
   <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
   <img src="gifs/Untitled design (4).gif" style="width: 1100px">
   
@@ -71,9 +75,7 @@
   </a>
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 
 ![footer](https://github.com/user-attachments/assets/437f1cb2-14ae-4ad8-b10e-dd691aeb83ee)
