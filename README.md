@@ -2,7 +2,7 @@
   <!-- Left image -->
  <img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/7ab897d9-4acf-4320-adc7-9c991e6fd6f7" />
   
-  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=green&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=000000&&style=flat" alt="Profile views" />
   <img src = "https://img.shields.io/github/followers/virajwathsalag?label=Followers" />
   <img src = "https://img.shields.io/github/stars/virajwathsalag?label=stars" />
   <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
@@ -35,7 +35,7 @@
 
 
   
-<img  style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,nodejs,spring,mysql,mongodb,bootstrap,tailwindcss,react,nextjs,flask,django,sklearn,jquery,bash,vscode,androidstudio,arduino,firebase,supabase,git,postman,azure,vercel,docker,windows,linux,ubuntu&perline=16"/>
+<img  style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,c,nodejs,spring,mysql,mongodb,bootstrap,tailwindcss,react,nextjs,flask,django,sklearn,jquery,bash,vscode,idea,androidstudio,arduino,firebase,supabase,git,postman,azure,vercel,docker,windows,linux,ubuntu&perline=16"/>
   
  
 
@@ -60,19 +60,23 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://dev.to/virajwathsalag" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
-  </a>
-  <a href="https://www.linkedin.com/in/virajwathsalag/" target="_blank">
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
+  
+  <a href="https://www.linkedin.com/in/virajwathsalag/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
   </a>
-  <a href="https://instagram.com/virajwathsalag" target="_blank">
+&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/virajwathsalag" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
   </a>
-  
-  <a href="https://youtube.com/@virajwathsalag" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
+   <a href="https://instagram.com/virajwathsalag" target="blank">
+    <img src="https://skillicons.dev/icons?i=medium" alt="medium" style="border-radius: 10px; padding: 5px; background: linear-gradient(145deg, #1c1c1c, #242424); box-shadow: 5px 5px 10px #1a1a1a, -5px -5px 10px #2e2e2e;" />
   </a>
+  
+    
+   </div>
+
+  
 </p>
 
 
