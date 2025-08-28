@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- Left image -->
-  <img src="images/Untitled design.png" style="width: 1100px">
+ <img width="1584" height="396" alt="Grey Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/7ab897d9-4acf-4320-adc7-9c991e6fd6f7" />
   <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
   <img src="gifs/Untitled design (4).gif" style="width: 1100px">
   
@@ -50,6 +50,7 @@
   
 </p>
 
+
 ---
 
 ### 🌐 Connect with Me:
@@ -70,14 +71,27 @@
   </a>
 </p>
 
----
-
-### 🔥 Highlights:
-
-- 🌱 Constantly learning and improving.
-- 💻 Skilled in full-stack development, focusing on modern web and desktop applications.
-- 🚀 Passionate about creating optimized and user-friendly software.
-
 <p align="center" style="margin-top: 15px;">
   <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+
+![footer](https://github.com/user-attachments/assets/437f1cb2-14ae-4ad8-b10e-dd691aeb83ee)
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+<defs> 
+  <filter id="anim">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+    <feColorMatrix in="blur" mode="matrix" values="
+          1 0 0 0 0  
+          0 1 0 0 0  
+          0 0 1 0 0  
+          0 0 0 13 -9" result="anim" />
+    <xfeBlend in="SourceGraphic" in2="anim" />
+  </filter>
+  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+</defs> 
+<use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+<use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+</svg>
