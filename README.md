@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=virajwathsalag&label=Profile%20Views&color=lightgray&&style=flat" alt="Profile views" />
   <img src = "https://img.shields.io/github/followers/virajwathsalag?label=Followers" />
   <img src = "https://img.shields.io/github/stars/virajwathsalag?label=stars" />
-  <img src="gifs/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 1100px" > 
+  
   <img src="gifs/Untitled design (4).gif" style="width: 1100px">
   
 
